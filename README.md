@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# How to measure the racism?
 *[Felip Samitier Jerez]*
 
 *[Data Analyst Bootcamp, Barcelona, 2021]*
