@@ -59,6 +59,9 @@ The repositoy has 4 different folder:
 ## Links
 
 [Repository](https://github.com/FelipSamitier/Project-Week-5-Your-Own-Project)  
+
 [Slides](https://docs.google.com/presentation/d/1TOh-1cz4Y8fHc8QaAI6qI-4KFU9StFz-M12Q2dej4fw/edit?usp=sharing)
 
 [Study Harvard](https://implicit.harvard.edu/implicit/user/agg/blindspot/indexrk.htm)
+
+[Medium](https://felipsamije.medium.com/how-to-measure-racism-fd59f4f5428f)
