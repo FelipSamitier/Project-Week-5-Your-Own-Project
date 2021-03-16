@@ -64,4 +64,3 @@ The repositoy has 4 different folder:
 
 [Study Harvard](https://implicit.harvard.edu/implicit/user/agg/blindspot/indexrk.htm)
 
-[Medium](https://felipsamije.medium.com/how-to-measure-racism-fd59f4f5428f)
